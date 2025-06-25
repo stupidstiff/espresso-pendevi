@@ -1,10 +1,6 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
+<img src="https://cdn-icons-png.flaticon.com/512/7618/7618040.png" class="logo" width="120"/>
 
-# ESPRESSO-PENDEVI.
-
-Lasse den RoadMap Teil Weg, Project Struktur, development part, Acknowledgments.
-Ändere "made with ... by stiff".
-Füge ganz oben ein Disclaimer hin : WORK IN PROGRESS oder so das das projekt noch in der entwicklung steckt. und einen disclaimer das dass ganze projekt nur für schulungszwecke ist und nicht in der echten welt oder so angewendet darf, nur mit einwilligung, white hat ... irgendwie sowas damit ich mich mit der veröffentlichungen nicht strafbar machen kann.
+# ESPRESSO-PENDEVI
 
 ```markdown
 # ☕ espresso-pendevi
