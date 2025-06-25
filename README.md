@@ -4,21 +4,19 @@
 
 ```markdown
 # ☕ espresso-pendevi
-
-> ⚠️ **WORK IN PROGRESS** - This project is currently under active development and not ready for production use.
-
-<div align="center">
-
 ```
 
     ☕ ESPRESSO PENDEVI ☕
     ═══════════════════════
-         █▀▀▀▀▀▀▀▀▀█
-         █  ☕ ESP  █
-         █ PENTOOL █
-         █▄▄▄▄▄▄▄▄▄█
+> ⚠️ **WORK IN PROGRESS** - This project is currently under active development and not ready for production use.
+
+<div align="center">
     ═══════════════════════
     ```
+
+
+
+
 
 **A powerful pentesting device based on ESP32-C6 with touchscreen GUI and WebUI interface.**
 
