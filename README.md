@@ -1,6 +1,6 @@
 <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
 
-# Gib mir eine ReadMe datei aus. mit schönem styling. Espresso Logo für das Projekt.
+# ESPRESSO-PENDEVI.
 
 Lasse den RoadMap Teil Weg, Project Struktur, development part, Acknowledgments.
 Ändere "made with ... by stiff".
