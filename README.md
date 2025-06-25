@@ -199,7 +199,7 @@ If you discover security vulnerabilities in this educational project, please rep
 
 <div align="center">
 
-**☕ Made with espresso and ethical hacking principles by stiff**
+**  Made with ☕️ by stiff**
 
 *Remember: With great power comes great responsibility. Use wisely! 🕷️*
 
