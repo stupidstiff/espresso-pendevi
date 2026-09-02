@@ -206,3 +206,7 @@ If you discover security vulnerabilities in this educational project, please rep
 </div>
 ```
 
+## Credits
+
+Icon "Espresso" by Andy Horvath from Flaticon
+https://www.flaticon.com/free-icon/espresso_7618040
